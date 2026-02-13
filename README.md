@@ -63,4 +63,4 @@ To run this project locally, follow these steps:
 The project evaluates models based on metrics such as **Accuracy** (for classification) and **Mean Squared Error (MSE)** (for regression). The tree-based ensemble methods (like Random Forest and XGBoost) generally provided the most robust results for this dataset.
 
 ---
-*Developed by [Your Name]*
+*Developed by Ahmed Saad*
